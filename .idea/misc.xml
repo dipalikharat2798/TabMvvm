@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/drawable-v24/garden_tab_selector.xml" value="0.1255" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/drawable-v24/ic_detail_back_no_circle.xml" value="0.1255" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/drawable-v24/ic_detail_share.xml" value="0.1255" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/drawable-v24/tab_icon_color_selector.xml" value="0.115" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/layout/activity_main.xml" value="0.17074275362318841" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/layout/fragment_first.xml" value="0.14418604651162792" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Andro/Tasks/TabMvvmApp/app/src/main/res/layout/fragment_second.xml" value="0.19927536231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
